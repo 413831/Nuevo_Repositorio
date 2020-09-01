@@ -1,3 +1,0 @@
-/home/aleksei/workspace/Capacitaciones/Curso C/Ejemplo_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/aleksei/workspace/Capacitaciones/Curso C/Ejemplo_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/aleksei/workspace/Capacitaciones/Curso C/Ejemplo_1/cmake-build-debug/CMakeFiles/Ejemplo_1.dir
