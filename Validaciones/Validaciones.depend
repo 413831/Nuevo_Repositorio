@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599770863 source:/home/aleksei/workspace/Capacitaciones/Curso C/Validaciones/main.c
+	<stdio.h>
+	<stdlib.h>
+

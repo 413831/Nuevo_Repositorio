@@ -18,7 +18,6 @@ int main()
     switch(operacion)
     {
         case '+' :
-
             resultado = numeroUno + numeroDos;
             break;
         case '-' :
@@ -28,7 +27,10 @@ int main()
             resultado = numeroUno * numeroDos;
             break;
         case '/' :
-            resultado = numeroUno / numeroDos;
+            if(numeroDos > 0)
+            {
+                resultado = numeroUno / numeroDos;
+            }
             break;
         default :
             printf("Operacion invalida");
